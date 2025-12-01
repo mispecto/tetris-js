@@ -2,6 +2,6 @@
 
 Tetris game written in pure JavaScript.
 
-[Play here](https://spektom.github.io/tetris-js)
+[Play here](https://mispecto.github.io/tetris-js)
 
 ![](tetris.png)
